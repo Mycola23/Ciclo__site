@@ -1319,6 +1319,10 @@ body {
     padding-left: 0;
     height: auto;
   }
+  .screen-12__body {
+    min-height: 100%;
+    position: static;
+  }
   .screen-12__content {
     padding: 0 15px;
   }
